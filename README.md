@@ -1,1 +1,3 @@
 # Nintendo-queues
+
+Queue manager
