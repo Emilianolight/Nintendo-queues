@@ -18,21 +18,12 @@ public class main {
      */
     public static void main(String[] args) {
         
-           Ventana ventana = new Ventana();
+          Ventana ventana = new Ventana();
       ventana.setVisible(true);
       ventana.setLocationRelativeTo(null);
       
       
-      
-//      Cola cola = new Cola();
-//      
-//      cola.nivel1.offer(2);
-//      cola.nivel1.offer(3);
-//      cola.nivel1.offer(4);
-//      
-//        System.out.println(cola.nivel1.remove(1));
-//        System.out.println(cola.nivel1.remove(1));
-    
+
 }
 
 }
